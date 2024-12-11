@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on surface NO2 estimation over Poland by ML
+- 🔭 I’m currently working on surface NO2 estimation over Poland by machine learning.
 - 🌱 I’m currently learning advanced machine learning techniques for satellite data analysis and Python-based geospatial libraries like GeoPandas and PyTorch.
 - 👯 I’m looking to collaborate on projects related to air quality modeling, remote sensing data analysis, and machine learning applications in atmospheric sciences.
 
