@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Emeka, and I'm an UW trained atmospheric scientist interested in all things Python and Data Science! 
+My name is Emeka, and I'm an atmospheric scientist interested in all things Python and Data Science! 
 
 - 🔭 I’m currently working on surface NO2 estimation over Poland by machine learning.
 - 🌱 I’m currently learning advanced machine learning techniques for satellite data analysis and Python-based geospatial libraries like GeoPandas and PyTorch.
