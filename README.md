@@ -3,8 +3,8 @@
 My name is Emeka, and I'm an atmospheric scientist interested in all things Python and Data Science! 
 
 - 🔭 I’ve completed a task on healthcare cost prediction by machine learning.
-- 🌱 I’ve completed my work on advanced machine learning techniques for satellite data analysis and Python-based geospatial libraries like GeoPandas and PyTorch.
-- 👯 I’m looking to collaborate on projects related to air quality modeling, remote sensing data analysis, and machine learning applications in atmospheric sciences.
+- 🌱 I’ve completed my work on predicting loan default using an Artificial Neural Network (ANN) implemented in Python with TensorFlow and Keras.
+- 👯 I’m looking to collaborate on projects related to business, finance, healthcare, and machine learning applications in sciences, technology and engineering.
   - Send me ideas to emekaugboma@gmail.com
 
 
