@@ -2,14 +2,17 @@
 
 My name is Emeka, and I'm an atmospheric scientist interested in all things Python and Data Science! 
 
-- 🔭 Recently, I developed a robust sentiment analysis system using state-of-the-art NLP models. Please, check it out!
-- 🔭 I’ve completed a task on healthcare cost prediction by machine learning.
-- 🌱 I’ve completed my work on predicting loan default using an Artificial Neural Network (ANN) implemented in Python with TensorFlow and Keras.
+- 🚀 I’m currently working on Predicting air pollutant concentrations using artificial neural networks to improve air quality modeling and environmental forecasting.
+- 🔭 Developed a robust sentiment analysis system using state-of-the-art NLP models. Please, check it out!
+- 🔭 Completed a challenge on Healthcare cost prediction by machine learning.
+- 🌱 I’ve completed my task on predicting loan default using an Artificial Neural Network (ANN) implemented in Python with TensorFlow and Keras.
 - 👯 I’m open to collaborating on data-driven projects at the intersection of business, finance, healthcare, and machine learning applications across the sciences, technology, and engineering domains.
 - 💬 Ask me about:
-        - Air quality modeling, pollution trend assessment, and climate data analytics
-        - Reproducible research workflows using Jupyter Notebooks, TensorFlow, and scikit-learn
-        - Building dashboards and ETL pipelines for large environmental datasets
+        - Air quality modeling, pollution trend assessment, and climate data analytics,
+  
+        - Reproducible research workflows using Jupyter Notebooks, TensorFlow, and scikit-learn,
+  
+        - Building dashboards and ETL pipelines for large environmental datasets.
 - Send me ideas to emekaugboma@gmail.com
 
 
