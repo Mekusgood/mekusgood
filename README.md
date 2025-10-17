@@ -9,9 +9,7 @@ My name is Emeka, and I'm an atmospheric scientist interested in all things Pyth
 - 👯 I’m open to collaborating on data-driven projects at the intersection of business, finance, healthcare, and machine learning applications across the sciences, technology, and engineering domains.
 - 💬 Ask me about:
         - Air quality modeling, pollution trend assessment, and climate data analytics,
-  
         - Reproducible research workflows using Jupyter Notebooks, TensorFlow, and scikit-learn,
-  
         - Building dashboards and ETL pipelines for large environmental datasets.
 - Send me ideas to emekaugboma@gmail.com
 
