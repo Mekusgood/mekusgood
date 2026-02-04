@@ -2,6 +2,8 @@
 
 My name is Emeka, and I'm an atmospheric scientist interested in all things Python and Data Science! 
 
+- 👯 Our latest collaboration has led to a new peer-reviewed publication entitled “City-produced and transported black carbon: Synergy of in-situ optical measurements and modeling.”
+     The article is open access and freely available to all readers. You can access the full paper here: https://doi.org/10.1016/j.atmosres.2025.108731
 - 🚀 I’m currently working on predicting air pollutant concentration via LSTM to improve air quality modeling and environmental forecasting.
 - 🔭 Developed a robust sentiment analysis system using state-of-the-art NLP models. Please, check it out!
 - 🔭 Completed a challenge on Healthcare cost prediction by machine learning.
