@@ -2,7 +2,7 @@
 
 My name is Emeka, and I'm an atmospheric scientist interested in all things Python and Data Science! 
 
-- 🚀 I’m currently working on Predicting air pollutant concentrations using artificial neural networks to improve air quality modeling and environmental forecasting.
+- 🚀 I’m currently working on predicting air pollutant concentration via LSTM to improve air quality modeling and environmental forecasting.
 - 🔭 Developed a robust sentiment analysis system using state-of-the-art NLP models. Please, check it out!
 - 🔭 Completed a challenge on Healthcare cost prediction by machine learning.
 - 🌱 I’ve completed my task on predicting loan default using an Artificial Neural Network (ANN) implemented in Python with TensorFlow and Keras.
