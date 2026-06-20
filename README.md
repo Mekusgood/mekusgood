@@ -6,9 +6,9 @@ My work focuses on using data-driven methods to understand atmospheric pollution
 
 ## 🔬 Current Research and Projects
 
-- 🚀 **Air Pollution Prediction**
+- 🚀 **Air Pollution forecasting**
   
-  I am currently developing deep learning models, including **LSTM-based approaches**, to forecast hourly air pollutant concentrations and support improved air quality modeling.
+  I am currently developing deep learning models, including **RNN-based approaches**, to forecast hourly air pollutant concentrations and support improved air quality modeling.
 
 - 🌍 **Atmospheric Science and Black Carbon Research**
   
