@@ -34,7 +34,7 @@ I am especially interested in projects involving:
 - Air quality modeling and pollution exposure assessment
 - Climate and atmospheric data analytics
 - Remote sensing and satellite-based environmental monitoring
-- Machine learning for environmental, healthcare, business, and financial applications
+- Machine learning for atmosphere and environmental applications
 - Reproducible scientific workflows using Python and Jupyter Notebooks
 - Dashboards, ETL pipelines, and large-scale environmental datasets
 
@@ -49,7 +49,7 @@ I am especially interested in projects involving:
 
 ## 🤝 Collaboration
 
-I am open to collaborating on data-driven projects across atmospheric science, environmental monitoring, machine learning, healthcare, finance, business analytics, and engineering applications.
+I am open to collaborating on data-driven projects across atmospheric science, environmental monitoring, machine learning, and engineering applications.
 
 ## 📫 Contact
 
