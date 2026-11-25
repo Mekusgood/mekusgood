@@ -8,7 +8,7 @@ My work uses data-driven methods to understand atmospheric pollution, improve ai
 
 - 🛰️ **Satellite NO₂ and urban air quality in sub-Saharan Africa**
 
-  My recent paper, *"Quantifying the monthly-scale temporal persistence of high-NO2 months in four sub-Saharan African cities using TROPOMI"*, is published in *Atmospheric Environment*:
+  Recent paper, *"Quantifying the monthly-scale temporal persistence of high-NO2 months in four sub-Saharan African cities using TROPOMI"*, is published in *Atmospheric Environment*:
   https://doi.org/10.1016/j.atmosenv.2026.122525
 
   Code and data: https://github.com/Mekusgood/persistence-high-no2
