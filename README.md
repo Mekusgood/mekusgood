@@ -1,6 +1,6 @@
 # Hi, I'm Emeka 👋
 
-I am an atmospheric scientist with strong interests in **Python, air quality modeling, remote sensing, and environmental data analytics**.
+Atmospheric scientist with strong interests in **Python, air quality modeling, remote sensing, and environmental data analytics**.
 
 My work uses data-driven methods to understand atmospheric pollution, improve air quality prediction, and build reproducible workflows for scientific and applied research.
 
